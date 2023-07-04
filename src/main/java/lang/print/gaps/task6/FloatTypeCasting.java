@@ -6,3 +6,4 @@ public class FloatTypeCasting {
         System.out.println(integerVal);
     }
 }
+//

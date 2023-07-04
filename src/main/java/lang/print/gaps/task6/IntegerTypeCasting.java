@@ -7,4 +7,4 @@ public class IntegerTypeCasting {
         int second = (int) first;
         System.out.println(second);
     }
-}
+}//
